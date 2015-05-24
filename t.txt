@@ -1,8 +1,4 @@
-ram sita 
-<<<<<<< HEAD
+ram
 bhavinvipul
-
 vipul
-=======
-bhavinsagararaarss
->>>>>>> development
+
